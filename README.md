@@ -7,6 +7,8 @@ Tips:
 
 - 在项目源代码页面链接前缀那加上 `http://htmlpreview.github.com/?` 即可访问 Github 项目中的 HTML 文件；
 - 自定义搜索中出现的广告可考虑使用 Adblock 插件去除，或者使用 Stylish 屏蔽元素；
+- 网页外观 Fork from https://github.com/bestony/sspai-cse ；
+- Google Custom Search Engine: https://cse.google.com/cse/all
 
 
 
