@@ -16,7 +16,10 @@ Tips:
 
 [E-Books Search Engine](http://htmlpreview.github.io/?https://github.com/bianwenbo/GoogleCustomSearch/blob/master/ebooks.html)
 
-引用如下网站：
+集成网站：[小书屋](http://mebook.cc)、[周读](http://www.ireadweek.com)、[bookset](https://bookset.me)；
 
-- 集成：[小书屋](http://mebook.cc)、[周读](http://www.ireadweek.com)、[bookset](https://bookset.me)；
-- 未集成：[书周](http://kindle.archiew.top/) 内容Google未收录 20181003。
+未集成网站：
+
+- [书周](http://kindle.archiew.top/)：Google未收录其内容 at 20181003；
+- [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net)：很全但仅提供PDF格式，IP限制(TOR broswer)、Cookie限制(NewPrivateWindow)、50页限制(EmailAccount)；
+- [Library Genesis](http://libgen.io)：英文，创世纪图书馆是开放获取科学论文及书籍的搜索引擎，Google收录不如网站自身搜索清晰。
