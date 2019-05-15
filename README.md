@@ -16,14 +16,14 @@ Tips:
 
 [E-Books Search Engine](http://htmlpreview.github.io/?https://github.com/bianwenbo/GoogleCustomSearch/blob/master/ebooks.html)
 
-集成网站：[小书屋](http://mebook.cc)、[周读](http://www.ireadweek.com)、[bookset](https://bookset.me)、[Ebook4Expert](https://ebook4expert.org)；
+集成网站：[小书屋](http://mebook.cc)、[周读](http://www.ireadweek.com)、[bookset](https://bookset.me)、[Ebook4Expert](https://ebook4expert.org)；[ePUBw](https://epubw.com)、[伴读](https://www.bandubook.com)
 
 未集成网站：
 
 - [书周](http://kindle.archiew.top/)：Google未收录其内容 at 20181003；
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net)：很全但仅提供PDF格式，IP限制(TOR broswer)、Cookie限制(NewPrivateWindow)、50页限制(EmailAccount)；
 - [Library Genesis](http://libgen.io)：英文，创世纪图书馆是开放获取科学论文及书籍的搜索引擎，Google收录不如网站自身搜索清晰。
-- [鸠摩搜书](jiumodiary.com): 中文为主，Google 未收录。
+- [鸠摩搜书](http://jiumodiary.com): 中文为主，Google 未收录。
 - [数字图书馆推广工程](http://m.ndlib.cn)：中国国家支持建设的平台，移动端浏览器阅读效果最佳，包含大量中文经典书籍。
 
 ## 软件引擎
