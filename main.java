@@ -1,5 +1,3 @@
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
+2021-01-01T23:34:00+08:00
+随机数:6334
+提交次数:1
