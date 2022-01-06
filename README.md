@@ -22,3 +22,6 @@ How is the site built?
 - Ads appearing in Custom Search can be removed using the Adblock or Stylus plugin;
 - The appearance of the webpage Fork from https://github.com/bestony/sspai-cse ;
 - Google Custom Search Engine: https://cse.google.com/cse/all
+
+## NG
+I am planning to launch a new version and it will take a while.
